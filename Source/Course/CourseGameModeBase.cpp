@@ -2,4 +2,5 @@
 
 
 #include "CourseGameModeBase.h"
+#include "Clip/AClipHUD.h"
 
